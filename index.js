@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
         <h1>Student Information</h1>
         <p><strong>Name:</strong> Ira Karrell Catapang</p>
         <p><strong>Program:</strong> Bachelor of Science in Information Technology Major in Business Analytics</p>
-        <div class="quote">"Life isn't about finding yourself. Life is about creating yourself""
+        <div class="quote">"Life isn't about finding yourself. Life is about creating yourself"
 - George Bernard Shaw</div>
       </body>
     </html>
